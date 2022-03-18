@@ -260,7 +260,7 @@ spec:
     port: 27017
   odm:
     url: >-
-      https://odm-connect-cp4a.devops-prereqs-44-a01ee4194ed985a1e32b1d96fd4ae346-0000.us-east.containers.appdomain.cloud/DecisionService/rest/v1/ICP_Trader_Dev_1/determineLoyalty
+      https://mvrpkpd420.execute-api.us-east-2.amazonaws.com/default/GetLoyaltyLevel
   oidc:
     clientId: trader
     clientSecret: 8a8d5681-1580-4461-a45b-d19fce955b02
